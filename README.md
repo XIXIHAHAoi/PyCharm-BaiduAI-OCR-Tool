@@ -1,2 +1,6 @@
-# PyCharm-BaiduAI-OCR-Tool
-基于 PyCharm + 百度 AI 开放平台的智能 OCR 图片文字识别工具
+需要在该项目根目录下创建images和output文件夹
+
+需要安装依赖，在控制台输入
+
+pip install baidu-aip python-docx
+
